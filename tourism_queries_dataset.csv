@@ -1,0 +1,101 @@
+id,category,query_english
+1,accommodation,Where is the nearest hotel?
+2,accommodation,Can you recommend a good hotel nearby?
+3,accommodation,Where can I find cheap accommodation?
+4,accommodation,How can I book a hotel?
+5,accommodation,Where can I find luxury hotels?
+6,transport,How do I get to the airport?
+7,transport,Where is the nearest bus stop?
+8,transport,How much is a taxi to the city center?
+9,transport,Is there a metro station nearby?
+10,transport,Where can I rent a car?
+11,transport,Where can I find a taxi?
+12,transport,How do I reach the train station?
+13,transport,Is there public transport available?
+14,transport,What are the transportation options?
+15,transport,Where can I rent a bike?
+16,attractions,What are the best tourist attractions here?
+17,attractions,What time does the museum open?
+18,attractions,Are there any historical sites nearby?
+19,attractions,What are the top attractions in this city?
+20,attractions,What are the famous landmarks here?
+21,attractions,Are there any scenic viewpoints nearby?
+22,attractions,Where can I go hiking?
+23,attractions,Are there any water sports available?
+24,attractions,What is the history of this place?
+25,attractions,What are the must-see places here?
+26,food,Where can I find local food?
+27,food,Can you suggest a good restaurant?
+28,food,What is the local specialty food?
+29,food,Where can I find vegetarian food?
+30,food,What is the best restaurant in this area?
+31,food,Where can I find street food?
+32,food,Where can I find halal food?
+33,food,What are the best cafes here?
+34,food,Where can I find budget restaurants?
+35,food,Where can I find coffee shops?
+36,safety,Is this area safe for tourists?
+37,safety,Where can I find a hospital?
+38,safety,How can I contact emergency services?
+39,safety,Where is the nearest police station?
+40,safety,Where can I find a pharmacy?
+41,safety,What are the safety tips for tourists?
+42,safety,What should I avoid as a tourist?
+43,money,Where is the nearest ATM?
+44,money,Where can I exchange currency?
+45,money,What is the local currency?
+46,money,Is tipping expected here?
+47,money,Are there any discounts for students?
+48,shopping,Where can I buy souvenirs?
+49,shopping,Are there any shopping malls nearby?
+50,shopping,What are the opening hours of shops?
+51,shopping,What is the best place for shopping?
+52,shopping,Where can I find traditional crafts?
+53,shopping,Where can I find local markets?
+54,shopping,Where can I find travel deals?
+55,information,Is there a tourist information center?
+56,information,Where can I get a map of the city?
+57,information,Is there a guide available?
+58,information,Where can I find a tour guide?
+59,information,Are there guided tours available?
+60,information,How long does the tour take?
+61,information,Where can I get travel information?
+62,information,What are the ticket prices for the museum?
+63,information,Can I book tickets online?
+64,information,Where can I buy tickets?
+65,information,Where can I book excursions?
+66,culture,What are the local customs?
+67,culture,What languages are spoken here?
+68,culture,Are there any festivals happening now?
+69,culture,Are there any cultural events today?
+70,culture,Is photography allowed here?
+71,culture,Are there any family-friendly places?
+72,culture,Are there any amusement parks nearby?
+73,nature,Are there any parks nearby?
+74,nature,How far is the beach from here?
+75,nature,Are there any beaches nearby?
+76,nature,What is the weather like today?
+77,nature,What is the best time to visit this place?
+78,practical,Is there free Wi-Fi available?
+79,practical,Where can I charge my phone?
+80,practical,Are pets allowed in this area?
+81,practical,Where can I find a restroom?
+82,practical,What are the visa requirements?
+83,practical,Where can I find travel insurance?
+84,practical,Always keep a copy of your passport.
+85,practical,What is the entry fee for this place?
+86,planning,Can you suggest a travel itinerary?
+87,planning,What are the nearby cities to visit?
+88,planning,What is the best time for sightseeing?
+89,planning,What is the best route to explore the city?
+90,planning,What are the hidden gems here?
+91,planning,What are budget travel options here?
+92,planning,What is the best way to travel around?
+93,planning,What activities can I do here?
+94,nightlife,Are there any night activities?
+95,nightlife,Where can I find live music?
+96,nightlife,Where can I find guided city tours?
+97,misc,What are the top-rated hotels?
+98,misc,Where can I find a travel agency?
+99,misc,Where can I take photos?
+100,misc,What is the distance to the city center?
